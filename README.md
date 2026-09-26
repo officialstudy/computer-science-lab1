@@ -97,7 +97,8 @@ Stepik — образовательная платформа со множест
 | Кнопка продолжить         | Переход на страничку курса                        | 8             |
 
 #### Скриншот 1. Личный кабинет Tilda
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d9afc59-0f49-40bc-9641-fe0b4fc83dfa" />
+
+<img width="1920" height="942" alt="Image" src="https://github.com/user-attachments/assets/874df740-827d-43d0-9bc7-f3fb9680435d" />
 
 
 
